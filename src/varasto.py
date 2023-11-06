@@ -21,7 +21,7 @@ class Varasto:
         return self.tilavuus - self.saldo
 
     def lisaa_varastoon(self, maara):
-        self.varasto.saldo += maara
+        self.saldo += maara
         if maara < 0:
             return
         if maara <= self.paljonko_mahtuu():
