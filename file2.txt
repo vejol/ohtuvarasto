@@ -1,1 +1,3 @@
 Tässä on toinen lisäys tehtävästä 3.
+
+Tämä on kokeilu git add -p -komentoa varten.
