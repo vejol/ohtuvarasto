@@ -54,8 +54,5 @@ def main():
     print(f"saatiin {saatiin}"
         f"\nMehuvarasto: {mehua}")
 
-    pass
-
-
 if __name__ == "__main__":
     main()
